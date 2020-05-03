@@ -2,26 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
-## Development server
+## How To Use
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+1. First install node by downloading it from official nodejs website and then install angular cli if not already installed using the command `npm i -g @angular/cli`.
+2. Now run command `npm install`.
+3. Run server using `ng serve`.
+4. To check the BODMAS based Calc, you can navigate to `http://localhost:4200/` which will itself take you to `http://localhost:4200/bodmas-calc`.
+5. If you wish to check out the normal calc, you can navigate to `http://localhost:4200/calc`
