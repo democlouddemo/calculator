@@ -9,5 +9,3 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 3. Run server using `ng serve`.
 4. To check the BODMAS based Calc, you can navigate to `http://localhost:4200/` which will itself take you to `http://localhost:4200/bodmas-calc`.
 5. If you wish to check out the normal calc, you can navigate to `http://localhost:4200/calc`
-
-Adding some changes here
